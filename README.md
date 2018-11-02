@@ -23,6 +23,11 @@ Currently Available For
 ### Tech
 * [electron.js]
 * [Chromium Browser]
+# ScreenShots
+    - How it look!
+![](https://raw.githubusercontent.com/himelrana-swe/Pastebin/master/pastebin.png)
+    - Minimize to tray
+![](https://raw.githubusercontent.com/himelrana-swe/Pastebin/master/pastebin-tray.png)
 
 ### Installation
 Download Setup from latest release and double click to install on your computer.

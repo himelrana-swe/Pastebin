@@ -28,7 +28,7 @@ Currently Available For
 ![](https://raw.githubusercontent.com/himelrana-swe/Pastebin/master/pastebin.png)
 
     - Minimize to tray notification
-![](https://raw.githubusercontent.com/himelrana-swe/Pastebin/master/pastebin-tray.png)
+![](https://raw.githubusercontent.com/himelrana-swe/Pastebin/master/notification.png)
 
 ### Installation
 Download Setup from latest release and double click to install on your computer.

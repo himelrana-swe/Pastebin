@@ -27,7 +27,7 @@ Currently Available For
     - How it look!
 ![](https://raw.githubusercontent.com/himelrana-swe/Pastebin/master/pastebin.png)
 
-    - Minimize to tray
+    - Minimize to tray notification
 ![](https://raw.githubusercontent.com/himelrana-swe/Pastebin/master/pastebin-tray.png)
 
 ### Installation
